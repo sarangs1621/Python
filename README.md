@@ -29,7 +29,7 @@ Here’s a glimpse of what you’ll find:
    ```
 2. **Navigate to the Directory**:
    ```bash
-   cd c-programming-challenges
+   cd python-programming-challenges
    ```
 3. **Explore the Problems**: Each problem is organized into separate files and folders. Check the README within each folder for detailed instructions and hints.
 
